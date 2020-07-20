@@ -1,1 +1,1 @@
-# Slot-machine
+# SlotMachine
